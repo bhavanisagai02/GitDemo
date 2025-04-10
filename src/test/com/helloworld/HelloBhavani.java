@@ -18,6 +18,13 @@ public class HelloBhavani {
 	        System.out.println("Selenium4");
 	    //}
 	
+	     
 	}
+	   public void RESTAPI()
+       {
+		   System.out.println("ELE1");
+		   System.out.println("ELE2");
+		   System.out.println("ELE3");
+       }
 
 }
